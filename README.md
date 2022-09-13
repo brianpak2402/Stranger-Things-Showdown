@@ -2,8 +2,6 @@
 This mini-game is inspired by the first season of the Netflix show, Stranger Things. 
 Here, you will be able to choose from seven different characters to compete in a simple game of rock, paper, scissors!
 
-![enter image description here](https://lh3.googleusercontent.com/XeOtyWIzW1i1lwf70AGcaeT0tBdfCe9fNV8sp92bmk1OuHUcM5oSqu1tJx4kHEbJw2JYg8Ib2c9WNigs3df8hflYnVlp4-qFwjf5XJhZUB189c4zF4v0vVl_dbnQ5ygxkwUpzWPKN9YuDfrei6mP5dXmy1qoKjRLoqE2tedJspKuh6kH4yLiY4_jd77CuYARz5LH-Urahgf3UyO3CWAd8u2NP89zCOJEkMx7CvZ6LjuYqbK1mqDHMramDm7vp2wno0giNZf2rBJ08As468jRJI-nP7jbEmwVrehBIs07ULl1VznzmxtEBR9STbixWIWsFLqBo3wvl4544IHYNDlE407u6GF1lkqzQ7_xKnC9G1MCgHxBxOUmwZU5HQliByqaKjZj72kp69K_lUmA73xJS-T9830B14G9pMwZrmVqBiu1WFgAARIZW6avrbspNfHnPFHmQXjDd1GVihbePRFLGY5dkbTfP03HtTVf3QgHHdwIgJ7JYzwk9ODpmKvDU4pHfCl67Ez0IQDyEmHzuFazFxg2SK0uLOe6DQ7yIa9cD22Lu8-nfFUSSfpVzNAx7g9c4XE3ahTOclh7cdoDy7tGfIiN0WYmr6PZ_YDdoit_ioinPt8EPq2iFe54Ic1vli6kkST6Mblaair5hggJJtbPjcn5To4sp2RUllE4SKWcLormJQCw4J3Eb2y2WLVz14B_4Bj_BCBk_fQEtv4SQkMrpBESg0Gi4cnCR7xkpq3WOdFXcFmUlpMBvLmqL8kXaR0=w1786-h1346-no?authuser=0)
-
 ### Credits
 The CS 2110 Teaching Assistants at the Georgia Institute of Technology are credited with developing the cs2110docker.sh script as well as the backbone code for this project, which includes Makefile, and other files contained in this repository. Any additions or adjustments to this code is my work only.
 
